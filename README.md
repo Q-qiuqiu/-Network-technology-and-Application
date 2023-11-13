@@ -1,2 +1,2 @@
-# -Network-technology-and-Application
+# Network-technology-and-Application
 school project
