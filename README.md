@@ -1,2 +1,2 @@
 # Network-technology-and-Application
-school project
+网络技术与应用
